@@ -1,0 +1,6 @@
+processed.cleveland.data,5476,ID3
+processed.cleveland.data,3946,ESTTree
+statlog_heart.dat,2808,ID3
+statlog_heart.dat,2762,ESTTree
+PoonaData.data,1372,ID3
+PoonaData.data,1420,ESTTree
